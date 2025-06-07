@@ -18,10 +18,8 @@ ________________________________________
 Page 2: Occupancy & Capacity Analysis
 •	Occupancy Rate:
 •	Calculated as (checked_out + no_show) / total_capacity, yielding an overall rate of 43.5%.
-•	Weekend occupancy was higher (47%) compared to weekdays (42%).
-•	Seasonal Trends:
-•	A strong positive correlation (0.45) between occupancy and revenue was identified.
-•	RevPAR displayed a similar correlation with occupancy.
+•	Weekend occupancy was higher (59.08%) compared to weekdays (40.92%).
+•	Presidential rooms have the highest occupancy (44.75%)
 •	Insights:
 •	Properties with higher occupancy rates generally had better revenue performance.
 
@@ -40,11 +38,11 @@ ________________________________________
 Page 4: Cancellations & Lost Revenue Analysis
 •	Cancellation Rate:
 •	Cancellation rate = (Number of cancellations / total bookings).
-•	Patterns revealed peak cancellations in June and July, particularly in specific room types.
+•	Patterns revealed peak cancellations in July, particularly in specific room types.
 •	Lost Revenue:
 •	Total revenue loss = SUM(revenue_generated) - SUM(revenue_realized).
 •	Insights:
-•	June witnessed the highest cancellations due to possible seasonality or customer preferences.
+•	June saw a drop in cancellations compared to May (around -4.25%)whereas July experienced a significant spike in cancellations (around 0.48%) due to possible seasonality or customer preferences.
 ________________________________________
 Conclusion & Recommendations :
 •	ITC Hotels’ Elite room class and ITC Exotica’s Luxury category are the top-performing segments, warranting further investment and marketing efforts.
